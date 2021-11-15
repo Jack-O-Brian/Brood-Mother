@@ -1,5 +1,5 @@
 
-=== Fri Nov 12 10:19:42 2021
+=== Mon Nov 15 13:59:38 2021
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -48,15 +48,3 @@ The following packages were updated:
   com.unity.2d.pixel-perfect from version 2.0.4 to 2.1.0
   com.unity.2d.psdimporter from version 2.1.5 to 2.1.6
   com.unity.2d.spriteshape from version 3.0.13 to 3.0.15
-
-=== Fri Nov 12 10:20:06 2021
-
-Packages were changed.
-Update Mode: updateDependencies
-
-The following packages were added:
-  com.unity.ads@3.6.1
-  com.unity.analytics@3.3.5
-  com.unity.multiplayer-hlapi@1.0.8
-  com.unity.purchasing@3.0.1
-  com.unity.xr.legacyinputhelpers@2.1.7
